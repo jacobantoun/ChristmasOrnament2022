@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\jantoun\Documents\ChristmasOrnament2022\Christmas Ornament 2022.kicad_sch</source>
+    <date>12/8/2022 6:10:29 PM</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Christmas Ornament 2022</title>
+        <company>github.com/jacobantoun</company>
+        <rev>A</rev>
+        <date>2022-12-08</date>
+        <source>Christmas Ornament 2022.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C28323</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C28323"/>
+      <property name="Description" value="50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b72871e-5bf5-4653-9e15-9f16f7b1d6f2</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ec3f36e-0e5c-4a61-a4dc-460b50594262</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb7a25c7-cc32-44a2-8b2d-7fd99ed52bcf</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9c98745-7cfe-4ad4-a013-d45deee3f215</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b7f3f5c-8ce7-4eec-942c-73bbb90f9a10</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>361f5504-d85b-4950-886d-c3c6cd3eb123</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>644feb41-981d-4fd9-a2da-75a6de822562</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c47843c-52bb-4914-b760-bbab6f69ad31</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6ffb800-0b99-430d-bc86-29d0f326297e</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e1e38a9-b247-42fd-b3ab-bbd9b70f211d</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6128683f-9f33-428f-8ec3-f9cac584a744</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C49678</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C49678"/>
+      <property name="Description" value="0V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10f9df23-337f-4d2d-a099-710c33c112fc</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">25V 4.7uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C1779</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C1779"/>
+      <property name="Description" value="25V 4.7uF X5R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f153f82-4851-4543-9442-90f5932acb98</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C28323</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C28323"/>
+      <property name="Description" value="50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a83153f6-7a4c-4f71-8313-cc100ea8da8d</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">50V 22pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C1804</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C1804"/>
+      <property name="Description" value="50V 22pF C0G ±5% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fd8e32d-58b4-4e8e-b16a-59d0313b9413</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="Part Number">C28323</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C28323"/>
+      <property name="Description" value="50V 1uF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b204af53-059c-4df8-ae06-4025e6fd43c2</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>Blue LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">mA 468nm Colorless transparence -40℃~+85℃ 465nm~475nm blue 120° 110mW 0603 Light Emitting Diodes (LED) ROHS</field>
+        <field name="Part Number">C72041</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C72041"/>
+      <property name="Description" value="mA 468nm Colorless transparence -40℃~+85℃ 465nm~475nm blue 120° 110mW 0603 Light Emitting Diodes (LED) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0c83b83-d553-420d-a847-a23968c7c0f8</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>Blue LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">mA 468nm Colorless transparence -40℃~+85℃ 465nm~475nm blue 120° 110mW 0603 Light Emitting Diodes (LED) ROHS</field>
+        <field name="Part Number">C72041</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C72041"/>
+      <property name="Description" value="mA 468nm Colorless transparence -40℃~+85℃ 465nm~475nm blue 120° 110mW 0603 Light Emitting Diodes (LED) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd37a9d8-2771-43ef-956b-ee7203cd7ebb</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>Blue LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">mA 468nm Colorless transparence -40℃~+85℃ 465nm~475nm blue 120° 110mW 0603 Light Emitting Diodes (LED) ROHS</field>
+        <field name="Part Number">C72041</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C72041"/>
+      <property name="Description" value="mA 468nm Colorless transparence -40℃~+85℃ 465nm~475nm blue 120° 110mW 0603 Light Emitting Diodes (LED) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>454540e0-64f9-47d9-b365-1f3b195d48c2</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>Green LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">20mA 518nm Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603  Light Emitting Diodes (LED) ROHS</field>
+        <field name="Part Number">C72043</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C72043"/>
+      <property name="Description" value="20mA 518nm Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603  Light Emitting Diodes (LED) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df9f076f-a810-4703-b40b-0e726bcb9047</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>Green LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">20mA 518nm Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603  Light Emitting Diodes (LED) ROHS</field>
+        <field name="Part Number">C72043</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C72043"/>
+      <property name="Description" value="20mA 518nm Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603  Light Emitting Diodes (LED) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc356885-801d-42db-8d62-468f2ceca2db</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>Green LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">20mA 518nm Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603  Light Emitting Diodes (LED) ROHS</field>
+        <field name="Part Number">C72043</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C72043"/>
+      <property name="Description" value="20mA 518nm Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603  Light Emitting Diodes (LED) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e52743ea-699d-4b76-805c-ee2802915fcf</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>Yellow LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">20mA 591nm Colorless transparence -40℃~+85℃ 585.5nm~591.5nm yellow 120° 60mW 0603 Light Emitting Diodes (LED) ROHS</field>
+        <field name="Part Number">C72038</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C72038"/>
+      <property name="Description" value="20mA 591nm Colorless transparence -40℃~+85℃ 585.5nm~591.5nm yellow 120° 60mW 0603 Light Emitting Diodes (LED) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc5b63ff-bfc4-492c-9db4-9db4f0ad81f7</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>Yellow LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">20mA 591nm Colorless transparence -40℃~+85℃ 585.5nm~591.5nm yellow 120° 60mW 0603 Light Emitting Diodes (LED) ROHS</field>
+        <field name="Part Number">C72038</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C72038"/>
+      <property name="Description" value="20mA 591nm Colorless transparence -40℃~+85℃ 585.5nm~591.5nm yellow 120° 60mW 0603 Light Emitting Diodes (LED) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27c2e59c-5cc5-4355-984f-a08dc8f01ccc</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>Yellow LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">20mA 591nm Colorless transparence -40℃~+85℃ 585.5nm~591.5nm yellow 120° 60mW 0603 Light Emitting Diodes (LED) ROHS</field>
+        <field name="Part Number">C72038</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C72038"/>
+      <property name="Description" value="20mA 591nm Colorless transparence -40℃~+85℃ 585.5nm~591.5nm yellow 120° 60mW 0603 Light Emitting Diodes (LED) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66e0b3da-6c46-4953-aaa3-6acd27865f12</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>Red LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS</field>
+        <field name="Part Number">C2286</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C2286"/>
+      <property name="Description" value="Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f339e331-fc4f-45e2-a94a-2f59c20e3e04</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>Red LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS</field>
+        <field name="Part Number">C2286</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C2286"/>
+      <property name="Description" value="Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>797a7ea8-235a-45d6-b9df-176c0e7963ba</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>Red LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS</field>
+        <field name="Part Number">C2286</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small_Filled" description="Light emitting diode, small symbol, filled shape"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C2286"/>
+      <property name="Description" value="Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bbfb2e9-3579-424f-babe-44b929a1f6c3</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D_Schottky_Small</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <fields>
+        <field name="Description">40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes (SBD) ROHS</field>
+        <field name="Part Number">C191023</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C191023"/>
+      <property name="Description" value="40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes (SBD) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f23178aa-c291-4c6f-9cea-6ed02426c72f</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e68dfe1-f1ff-4cce-ab69-8f99ff40f8a5</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_B_Micro</value>
+      <footprint>Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal</footprint>
+      <fields>
+        <field name="Description">USB 2.0 1 5 Female Micro-B SMD USB Connectors ROHS</field>
+        <field name="Part Number">C132563</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C132563"/>
+      <property name="Description" value="USB 2.0 1 5 Female Micro-B SMD USB Connectors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7312959b-1ad3-40d9-bc84-18cc331bc715</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Bridged" description="Jumper, 2-pole, closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f83a2d9a-956d-474c-8325-d167f9a173b8</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10u</value>
+      <footprint>Ornament Footprints:CKCS252010</footprint>
+      <fields>
+        <field name="Description">500mA 10uH ±20% 1.092Ω SMD Power Inductors ROHS</field>
+        <field name="Part Number">C354548</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C354548"/>
+      <property name="Description" value="500mA 10uH ±20% 1.092Ω SMD Power Inductors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82290979-e3fe-436f-b7e5-af05ad946093</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±100ppm/℃ ±1% -55℃~+155℃ 1.1kΩ 0603 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C22764</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±100ppm/℃ ±1% -55℃~+155℃ 1.1kΩ 0603 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C22764"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53f34b3b-9a6c-4120-a904-73e1cdc3799b</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±100ppm/℃ ±1% -55℃~+155℃ 10kΩ 0603 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C25804</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±100ppm/℃ ±1% -55℃~+155℃ 10kΩ 0603 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>597d9bf7-60c1-450a-8344-0c0c0195b386</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>27.4</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Description">62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 27.4Ω 0402 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C172043</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C172043"/>
+      <property name="Description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 27.4Ω 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dedc1e84-aaeb-41f8-a6ca-6681ddec6fbc</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>27.4</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Description">62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 27.4Ω 0402 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C172043</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C172043"/>
+      <property name="Description" value="62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% -55℃~+155℃ 27.4Ω 0402 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee6cf3d6-9b1f-47b3-808c-bca62d2ce372</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>20</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±100ppm/℃ ±1% -55℃~+155℃ 20Ω 0603  Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C22950</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C22950"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±100ppm/℃ ±1% -55℃~+155℃ 20Ω 0603  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08780440-6214-495e-925a-7d64a9aa2f7b</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>20</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±100ppm/℃ ±1% -55℃~+155℃ 20Ω 0603  Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C22950</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C22950"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±100ppm/℃ ±1% -55℃~+155℃ 20Ω 0603  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee0e34fd-c7e0-45e6-a789-3f2ac095f54f</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>20</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±100ppm/℃ ±1% -55℃~+155℃ 20Ω 0603  Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C22950</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C22950"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±100ppm/℃ ±1% -55℃~+155℃ 20Ω 0603  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e297e79-e1ce-4929-ae4b-056fb421817a</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C4275</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C4275"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>787cab3b-321c-4722-82e7-27beb5af8bd9</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C4275</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C4275"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20d1ff8d-e789-4db2-bbfb-49f87fb9e18a</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C4275</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C4275"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>865cfc56-0a7b-4006-a26a-6adff95f482a</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C4275</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C4275"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f806503b-deb8-4eff-b608-c98313f267a3</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C4275</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C4275"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fded07eb-f18a-4f23-9af1-1773c716926e</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>75</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C4275</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C4275"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 75Ω 0603 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>112c513c-aa42-48a1-b0c8-467a9ec59211</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 100Ω 0603  Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C22775</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C22775"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 100Ω 0603  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c79b9888-7f39-442d-8fb6-f3f459943a0f</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 100Ω 0603  Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C22775</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C22775"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 100Ω 0603  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2eaa063-971d-4465-8f65-fadc3215ea0b</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 100Ω 0603  Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C22775</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C22775"/>
+      <property name="Description" value="100mW Thick Film Resistors 75V ±1% ±200ppm/℃ -55℃~+155℃ 100Ω 0603  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80137bf6-287a-4cb6-b94d-aff67d34e7d8</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>249k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">125mW Thick Film Resistors 150V ±100ppm/℃ ±1% -55℃~+155℃ 249kΩ 0805 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C25825</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C25825"/>
+      <property name="Description" value="125mW Thick Film Resistors 150V ±100ppm/℃ ±1% -55℃~+155℃ 249kΩ 0805 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36984252-a99b-4177-9519-5c5b00db1693</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>150k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">125mW Thick Film Resistors 150V ±100ppm/℃ ±1% -55℃~+155℃ 150kΩ 0805 Chip Resistor - Surface Mount ROHS</field>
+        <field name="Part Number">C17470</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C17470"/>
+      <property name="Description" value="125mW Thick Film Resistors 150V ±100ppm/℃ ±1% -55℃~+155℃ 150kΩ 0805 Chip Resistor - Surface Mount ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2ccbb32-da40-408f-8622-e71f0397aecc</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Ornament Footprints:TS-1187A-B-A-B</footprint>
+      <fields>
+        <field name="Description">No NO 50mA 5.1mm 100mΩ 100000 160gf 12V -30℃~+85℃ 5.1mm 1.5mm Golden Round Button Brick nogging SPST SMD Tactile Switches ROHS</field>
+        <field name="Part Number">C318884</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C318884"/>
+      <property name="Description" value="No NO 50mA 5.1mm 100mΩ 100000 160gf 12V -30℃~+85℃ 5.1mm 1.5mm Golden Round Button Brick nogging SPST SMD Tactile Switches ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b1efb77-eaf6-41e6-9856-b3fbd10b5d85</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>W25Q32JVSS</value>
+      <footprint>Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</footprint>
+      <datasheet>http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</datasheet>
+      <fields>
+        <field name="Description">SOIC-8-208mil NOR FLASH ROHS</field>
+        <field name="Part Number">C2980995</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Memory_Flash" part="W25Q32JVSS" description="32Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C2980995"/>
+      <property name="Description" value="SOIC-8-208mil NOR FLASH ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c29a97e8-0117-4c37-bb6c-9c21eb3fa505</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>RP2040</value>
+      <footprint>Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</footprint>
+      <datasheet>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</datasheet>
+      <fields>
+        <field name="Description">ARM Cortex-M0 1@x4ch/12bit USB Host/Device 2 264KB 2 133MHz 30 2 QFN-56(7x7) Microcontroller Units (MCUs/MPUs/SOCs) ROHS</field>
+        <field name="Part Number">C2040</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="MCU_RaspberryPi" part="RP2040" description="A microcontroller by Raspberry Pi"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C2040"/>
+      <property name="Description" value="ARM Cortex-M0 1@x4ch/12bit USB Host/Device 2 264KB 2 133MHz 30 2 QFN-56(7x7) Microcontroller Units (MCUs/MPUs/SOCs) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c2b269f-3853-4dcf-9966-a75d24759b02</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TPS61040DBV</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tps61040.pdf</datasheet>
+      <fields>
+        <field name="Description">NO Boost type 1 Boost 28V 1.8V~6V 350mA 1MHz SOT-23-5 DC-DC Converters ROHS</field>
+        <field name="Part Number">C7722</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Regulator_Switching" part="TPS61040DBV" description="Synchronous Boost Regulator, Adjustable Output up to 28V, 400 mA Switch Current Limit, SOT-23-5"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C7722"/>
+      <property name="Description" value="NO Boost type 1 Boost 28V 1.8V~6V 350mA 1MHz SOT-23-5 DC-DC Converters ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d48b5e76-0602-47c6-bc51-c04d8c10a184</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>AMS1117-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <fields>
+        <field name="Description">72dB@(120Hz) 1A 1.3V@(800mA) Fixed 3.3V~3.3V Positive 1 SOT-223  Linear Voltage Regulators (LDO) ROHS</field>
+        <field name="Part Number">C6186</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AMS1117-3.3" description="1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C6186"/>
+      <property name="Description" value="72dB@(120Hz) 1A 1.3V@(800mA) Fixed 3.3V~3.3V Positive 1 SOT-223  Linear Voltage Regulators (LDO) ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>252fbeaf-34ea-4b2f-b0c7-f0d8c4a65664</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>MCP9700T-ETT</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/21942e.pdf</datasheet>
+      <fields>
+        <field name="Description">SOT-23(SOT-23-3) Temperature Sensors ROHS</field>
+        <field name="Part Number">C127949</field>
+        <field name="Vendor">JLCPCB</field>
+      </fields>
+      <libsource lib="Sensor_Temperature" part="MCP9700T-ETT" description="Low power, analog thermistor temperature sensor, ±4C accuracy, -40C to +125C, in SOT-23-3"/>
+      <property name="Vendor" value="JLCPCB"/>
+      <property name="Part Number" value="C127949"/>
+      <property name="Description" value="SOT-23(SOT-23-3) Temperature Sensors ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Christmas Ornament 2022.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27cf1fe2-f8f6-43e2-99ca-e0aac88aabbc</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="USB_B_Micro">
+      <description>USB Micro Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Micro</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky_Small">
+      <description>Schottky diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small_Filled">
+      <description>Light emitting diode, small symbol, filled shape</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small_Filled</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Bridged">
+      <description>Jumper, 2-pole, closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Bridged</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi" part="RP2040">
+      <description>A microcontroller by Raspberry Pi</description>
+      <docs>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</docs>
+      <footprints>
+        <fp>QFN*7x7mm?P0.4mm?EP3.2x3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</field>
+        <field name="Datasheet">https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="bidirectional"/>
+        <pin num="3" name="GPIO1" type="bidirectional"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GPIO6" type="bidirectional"/>
+        <pin num="9" name="GPIO7" type="bidirectional"/>
+        <pin num="10" name="IOVDD" type="passive"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GPIO10" type="bidirectional"/>
+        <pin num="14" name="GPIO11" type="bidirectional"/>
+        <pin num="15" name="GPIO12" type="bidirectional"/>
+        <pin num="16" name="GPIO13" type="bidirectional"/>
+        <pin num="17" name="GPIO14" type="bidirectional"/>
+        <pin num="18" name="GPIO15" type="bidirectional"/>
+        <pin num="19" name="TESTEN" type="input"/>
+        <pin num="20" name="XIN" type="input"/>
+        <pin num="21" name="XOUT" type="passive"/>
+        <pin num="22" name="IOVDD" type="passive"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="output"/>
+        <pin num="25" name="SWD" type="bidirectional"/>
+        <pin num="26" name="RUN" type="input"/>
+        <pin num="27" name="GPIO16" type="bidirectional"/>
+        <pin num="28" name="GPIO17" type="bidirectional"/>
+        <pin num="29" name="GPIO18" type="bidirectional"/>
+        <pin num="30" name="GPIO19" type="bidirectional"/>
+        <pin num="31" name="GPIO20" type="bidirectional"/>
+        <pin num="32" name="GPIO21" type="bidirectional"/>
+        <pin num="33" name="IOVDD" type="passive"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO23" type="bidirectional"/>
+        <pin num="36" name="GPIO24" type="bidirectional"/>
+        <pin num="37" name="GPIO25" type="bidirectional"/>
+        <pin num="38" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="39" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="40" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="41" name="GPIO29_ADC3" type="bidirectional"/>
+        <pin num="42" name="IOVDD" type="passive"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_IN" type="power_in"/>
+        <pin num="45" name="VREG_VOUT" type="power_out"/>
+        <pin num="46" name="USB_DM" type="bidirectional"/>
+        <pin num="47" name="USB_DP" type="bidirectional"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="passive"/>
+        <pin num="50" name="DVDD" type="passive"/>
+        <pin num="51" name="QSPI_SD3" type="bidirectional"/>
+        <pin num="52" name="QSPI_SCLK" type="output"/>
+        <pin num="53" name="QSPI_SD0" type="bidirectional"/>
+        <pin num="54" name="QSPI_SD2" type="bidirectional"/>
+        <pin num="55" name="QSPI_SD1" type="bidirectional"/>
+        <pin num="56" name="QSPI_SS" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Memory_Flash" part="W25Q32JVSS">
+      <description>32Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8</description>
+      <docs>http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</docs>
+      <footprints>
+        <fp>SOIC*5.23x5.23mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">W25Q32JVSS</field>
+        <field name="Footprint">Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CS}" type="input"/>
+        <pin num="2" name="DO(IO1)" type="bidirectional"/>
+        <pin num="3" name="IO2" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DI(IO0)" type="bidirectional"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="IO3" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-3.3">
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="TPS61040DBV">
+      <description>Synchronous Boost Regulator, Adjustable Output up to 28V, 400 mA Switch Current Limit, SOT-23-5</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tps61040.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS61040DBV</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps61040.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SW" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="FB" type="input"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Temperature" part="MCP9700T-ETT">
+      <description>Low power, analog thermistor temperature sensor, ±4C accuracy, -40C to +125C, in SOT-23-3</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/21942e.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP9700T-ETT</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/21942e.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vdd" type="power_in"/>
+        <pin num="2" name="Vout" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="MCU_RaspberryPi">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_RaspberryPi.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Memory_Flash">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Memory_Flash.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Temperature">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Sensor_Temperature.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+1V1">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="23" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U2" pin="45" pinfunction="VREG_VOUT" pintype="power_out"/>
+      <node ref="U2" pin="50" pinfunction="DVDD" pintype="passive"/>
+    </net>
+    <net code="2" name="+3.3V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U2" pin="10" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="33" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="42" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="43" pinfunction="ADC_AVDD" pintype="power_in"/>
+      <node ref="U2" pin="44" pinfunction="VREG_IN" pintype="power_in"/>
+      <node ref="U2" pin="48" pinfunction="USB_VDD" pintype="power_in"/>
+      <node ref="U2" pin="49" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U5" pin="1" pinfunction="Vdd" pintype="power_in"/>
+    </net>
+    <net code="3" name="+5V">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="U4" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="4" name="/QSPI_SCLK">
+      <node ref="U1" pin="6" pinfunction="CLK" pintype="input"/>
+      <node ref="U2" pin="52" pinfunction="QSPI_SCLK" pintype="output"/>
+    </net>
+    <net code="5" name="/QSPI_SD0">
+      <node ref="U1" pin="5" pinfunction="DI(IO0)" pintype="bidirectional"/>
+      <node ref="U2" pin="53" pinfunction="QSPI_SD0" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/QSPI_SD1">
+      <node ref="U1" pin="2" pinfunction="DO(IO1)" pintype="bidirectional"/>
+      <node ref="U2" pin="55" pinfunction="QSPI_SD1" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/QSPI_SD2">
+      <node ref="U1" pin="3" pinfunction="IO2" pintype="bidirectional"/>
+      <node ref="U2" pin="54" pinfunction="QSPI_SD2" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/QSPI_SD3">
+      <node ref="U1" pin="7" pinfunction="IO3" pintype="bidirectional"/>
+      <node ref="U2" pin="51" pinfunction="QSPI_SD3" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/QSPI_SS">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="56" pinfunction="QSPI_SS" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/RP2040_RUN">
+      <node ref="U2" pin="26" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="11" name="/RP2040_XIN">
+      <node ref="U2" pin="20" pinfunction="XIN" pintype="input"/>
+    </net>
+    <net code="12" name="/RP2040_XOUT">
+      <node ref="U2" pin="21" pinfunction="XOUT" pintype="passive"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="ID" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="19" pinfunction="TESTEN" pintype="input"/>
+      <node ref="U2" pin="57" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="14" name="LED1">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="LED2">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="LED3">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="LED4">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="LED5">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="LED6">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="LED7">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="LED8">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="LED9">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="LED10">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="LED11">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="LED12">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="MCP9700_AOUT">
+      <node ref="U2" pin="38" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+      <node ref="U5" pin="2" pinfunction="Vout" pintype="output"/>
+    </net>
+    <net code="27" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="EN" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="28" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="SW" pintype="power_out"/>
+      <node ref="U3" pin="3" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="~{CS}" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="47" pinfunction="USB_DP" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="46" pinfunction="USB_DM" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="USB_D+">
+      <node ref="J1" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="USB_D-">
+      <node ref="J1" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="unconnected-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Shield" pintype="passive+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="unconnected-(U2-Pad18)">
+      <node ref="U2" pin="18" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U2-Pad24)">
+      <node ref="U2" pin="24" pinfunction="SWCLK" pintype="output"/>
+    </net>
+    <net code="52" name="unconnected-(U2-Pad25)">
+      <node ref="U2" pin="25" pinfunction="SWD" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(U2-Pad27)">
+      <node ref="U2" pin="27" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="unconnected-(U2-Pad28)">
+      <node ref="U2" pin="28" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="unconnected-(U2-Pad29)">
+      <node ref="U2" pin="29" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="unconnected-(U2-Pad30)">
+      <node ref="U2" pin="30" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="unconnected-(U2-Pad31)">
+      <node ref="U2" pin="31" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="unconnected-(U2-Pad32)">
+      <node ref="U2" pin="32" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="unconnected-(U2-Pad34)">
+      <node ref="U2" pin="34" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="unconnected-(U2-Pad35)">
+      <node ref="U2" pin="35" pinfunction="GPIO23" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="unconnected-(U2-Pad36)">
+      <node ref="U2" pin="36" pinfunction="GPIO24" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="unconnected-(U2-Pad37)">
+      <node ref="U2" pin="37" pinfunction="GPIO25" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(U2-Pad39)">
+      <node ref="U2" pin="39" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="unconnected-(U2-Pad40)">
+      <node ref="U2" pin="40" pinfunction="GPIO28_ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="unconnected-(U2-Pad41)">
+      <node ref="U2" pin="41" pinfunction="GPIO29_ADC3" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
