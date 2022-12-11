@@ -1,0 +1,47 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Part Number,Vendor
+1,"Unpolarized capacitor, small symbol",C_Small,C2 C3 C4 C5 C6 C7 C8 C9 C10 C11 C12,100n,C_0402_1005Metric,11,~,C60474,JLCPCB
+2,"Unpolarized capacitor, small symbol",C_Small,C1 C14 C16,1u,C_0805_2012Metric,3,~,C28323,JLCPCB
+3,"Unpolarized capacitor, small symbol",C_Small,C15,22p,C_0805_2012Metric,1,~,C1804,JLCPCB
+4,"Unpolarized capacitor, small symbol",C_Small,C17 C18,30p,C_0402_1005Metric,2,~,C1570,JLCPCB
+5,"Unpolarized capacitor, small symbol",C_Small,C13,4.7u,C_0805_2012Metric,1,~,C1779,JLCPCB
+6,"Light emitting diode, small symbol, filled shape",LED_Small_Filled,D1 D2 D3,Blue LED,LED_0603_1608Metric,3,~,C72041,JLCPCB
+7,"Schottky diode, small symbol",D_Schottky_Small,D13,D_Schottky_Small,D_SOD-323,1,~,C191023,JLCPCB
+8,"Light emitting diode, small symbol, filled shape",LED_Small_Filled,D4 D5 D6,Green LED,LED_0603_1608Metric,3,~,C72043,JLCPCB
+9,"Light emitting diode, small symbol, filled shape",LED_Small_Filled,D14,Green PWR LED,LED_0603_1608Metric,1,~,C72043,JLCPCB
+10,"Light emitting diode, small symbol, filled shape",LED_Small_Filled,D10 D11 D12,Red LED,LED_0603_1608Metric,3,~,C2286,JLCPCB
+11,"Light emitting diode, small symbol, filled shape",LED_Small_Filled,D7 D8 D9,Yellow LED,LED_0603_1608Metric,3,~,C72038,JLCPCB
+12,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J3,Battery Input,PinHeader_1x02_P2.54mm_Vertical,1,~,,
+13,USB Micro Type B connector,USB_B_Micro,J1,USB_B_Micro,USB_Micro-B_Amphenol_10118194_Horizontal,1,~,C132563,JLCPCB
+14,"Inductor, small symbol",L_Small,L1,10u,CKCS252010,1,~,C354548,JLCPCB
+15,"Resistor, small symbol",R_Small,R1 R20,1.1k,R_0603_1608Metric,2,~,C22764,JLCPCB
+16,"Resistor, small symbol",R_Small,R14 R15 R16,100,R_0603_1608Metric,3,~,C22775,JLCPCB
+17,"Resistor, small symbol",R_Small,R2,10k,R_0603_1608Metric,1,~,C25804,JLCPCB
+18,"Resistor, small symbol",R_Small,R18,150k,R_0805_2012Metric,1,~,C17470,JLCPCB
+19,"Resistor, small symbol",R_Small,R19,180,R_0603_1608Metric,1,~,C22828,JLCPCB
+20,"Resistor, small symbol",R_Small,R5 R6 R7,20,R_0603_1608Metric,3,~,C22950,JLCPCB
+21,"Resistor, small symbol",R_Small,R17,249k,R_0805_2012Metric,1,~,C25825,JLCPCB
+22,"Resistor, small symbol",R_Small,R3 R4,27.4,R_0402_1005Metric,2,~,C172043,JLCPCB
+23,"Resistor, small symbol",R_Small,R8 R9 R10 R11 R12 R13,75,R_0603_1608Metric,6,~,C4275,JLCPCB
+24,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,TS-1187A-B-A-B,1,~,C318884,JLCPCB
+25,"1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223",AMS1117-3.3,U4,AMS1117-3.3,SOT-223-3_TabPin2,1,http://www.advanced-monolithic.com/pdf/ds1117.pdf,C6186,JLCPCB
+26,"Low power, analog thermistor temperature sensor, ±4C accuracy, -40C to +125C, in SOT-23-3",MCP9700T-ETT,U5,MCP9700T-ETT,SOT-23,1,http://ww1.microchip.com/downloads/en/DeviceDoc/21942e.pdf,C127949,JLCPCB
+27,A microcontroller by Raspberry Pi,RP2040,U2,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1,https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf,C2040,JLCPCB
+28,"Synchronous Boost Regulator, Adjustable Output up to 28V, 400 mA Switch Current Limit, SOT-23-5",TPS61040DBV,U3,TPS61040DBV,SOT-23-5,1,http://www.ti.com/lit/ds/symlink/tps61040.pdf,C7722,JLCPCB
+29,"32Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",W25Q32JVSS,U1,W25Q32JVSS,SOIC-8_5.23x5.23mm_P1.27mm,1,http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf,C2980995,JLCPCB
+30,"Two pin crystal, small symbol",Crystal_Small,Y1,12MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,~,C258939,JLCPCB
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Component Groups:,30,,,,,,,,
+Component Count:,62,,,,,,,,
+Fitted Components:,62,,,,,,,,
+Number of PCBs:,1,,,,,,,,
+Total components:,62,,,,,,,,
+Schematic Version:,A,,,,,,,,
+Schematic Date:,12/8/2022,,,,,,,,
+PCB Variant:,default,,,,,,,,
+BoM Date:,12/10/2022 22:03,,,,,,,,
+Schematic Source:,C:\Users\jantoun\Documents\ChristmasOrnament2022\Christmas Ornament 2022.kicad_sch,,,,,,,,
+KiCad Version:,Eeschema (6.0.8),,,,,,,,
